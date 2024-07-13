@@ -14,3 +14,7 @@ Esta estructura de datos que guarda un número fijo de elementos y cuando se lle
 eliminando los elmentos usados menos recientemente. Una de sus características importantes
 es que es muy eficiente en términos de acceso, con un costo promedio de O(1) para encontrar
 una llave.
+
+## PyO3
+
+## Lecciones y repaso
