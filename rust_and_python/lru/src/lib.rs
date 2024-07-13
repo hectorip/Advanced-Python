@@ -1,3 +1,6 @@
+// LRU Cache implementation
+// I hope it works
+
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
