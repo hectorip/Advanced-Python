@@ -17,4 +17,6 @@ una llave.
 
 ## PyO3
 
+Existe una librería llamada PyO3 que permite crear módulos de Rust que pueden ser
+
 ## Lecciones y repaso
