@@ -19,4 +19,8 @@ una llave.
 
 Existe una librería llamada PyO3 que permite crear módulos de Rust que pueden ser
 
+## Curso más extenso
+
+Existe un curso (en ingés) sobre la integración entre Rust y Python, creado por Luca Palmieri: [Rust-Python interoperability](https://rust-exercises.com/rust-python-interop/)
+
 ## Lecciones y repaso
